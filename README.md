@@ -1,2 +1,2 @@
-# Phone-tracker-Python
-It can track your phone simcard
+# Simple simcard phone tracker (PH)
+
