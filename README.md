@@ -1,2 +1,2 @@
-# Simple simcard phone tracker (PH)
+# Simcard tracker (Beginner friendly)
 
